@@ -15,7 +15,7 @@
 ## 🧩 엔트리 작품 / Entry Projects
 전부 2023년에 만들었습니다./They were all made in 2023.
 
-### 🐷 모니카의 다이어트! / Monkia's Diet
+### 🐷 모니카의 다이어트! / Monika's Diet
 [👉 엔트리에서 보기](https://playentry.org/project/6574756c304816b9aaa5168d)
 살빠지는 음식을 먹고, 살찌는 음식은 쳐내세요! / Eat slimming ones; YEET fattening ones!
 <img width="1378" height="768" alt="스크린샷(7)" src="https://github.com/user-attachments/assets/00bc7b57-e401-4e3c-95e8-ec208757e4bc" />
@@ -29,7 +29,7 @@
 
 ### 🗣️ 소리 지르기 대회! / Screaming Contest!
 [👉 엔트리에서 보기](https://playentry.org/project/649845c94b4846002c1e40d8)
-공기를 모아... 소리지르세요!!! / Take a deep breath... AND SCREAAM!!!
+공기를 모아... 소리지르세요!!! / Take a deep breath... AND SCREAAAM!!!
 <img width="1357" height="781" alt="스크린샷(10)" src="https://github.com/user-attachments/assets/f170e64b-9ce9-4fa0-b794-aa993e606893" />
 
 
@@ -41,7 +41,7 @@
 
 ### ✏️ 연필 강화하기 / Strengthening Pencils
 [👉 엔트리에서 보기](https://playentry.org/project/64959f2e29dca40037907995)
-원본은 불가능에 가까워서 이지모드로 올립니다. / The original is almost impossible, so I needed to upload Easy Mode.
+원본은 불가능에 가까워서 이지모드로 올립니다. / The original is almost impossible, so I needed to upload it as Easy Mode.
 <img width="1364" height="746" alt="스크린샷(12)" src="https://github.com/user-attachments/assets/79c80538-ad7c-45aa-a487-46dcbf8571c9" />
 
 ## ▶️ 유튜브 / YouTube
