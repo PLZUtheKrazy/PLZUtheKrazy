@@ -46,3 +46,6 @@
 
 ## ▶️ 유튜브 / YouTube
 2028년을 기대하세요 / Look forward to 2028.
+
+## 여담 / Personal Notes
+아직 초보지만 성장 중입니다. 여러분의 스타, 포크, 팔로우가 제겐 힘이 됩니다. / I'm still rookie, but I'm growing. Your Stars, Forks, and Follows are helping me.
