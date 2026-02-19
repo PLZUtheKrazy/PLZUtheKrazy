@@ -1,7 +1,5 @@
 ## 안녕하세요, 미플친주입니다 / Hi there, I'm PLZUtheKrazy 👋
 
-## 2026년 새해 복 많이 받으세요 / Happy New Year of 2026(in Lunar)🙇🏻‍♂️
-
 ## 👤 About Me
 - 💡 아이디어를 떠올리고 구현하는 걸 좋아함 / Like to realize my ideas
 - 🎮 게임 개발자 지망 중 / Wanting to be game dev
