@@ -1,8 +1,5 @@
 ## 안녕하세요, 미플친주입니다 / Hi there, I'm PLZUtheKrazy 👋
 
-## 오늘은 삼일절/Today is March 1st, Korean Independence Movement Day
-<img width="1800" height="1200" alt="대한민국" src="https://github.com/user-attachments/assets/5b6c50ba-a2f0-4227-b7b0-ae64bcf4bc32" />
-
 ## 👤 About Me
 - 💡 아이디어를 떠올리고 구현하는 걸 좋아함 / Like to realize my ideas
 - 🎮 게임 개발자 지망 중 / Wanting to be game dev
