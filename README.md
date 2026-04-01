@@ -16,7 +16,7 @@
 
 ### 🐷 모니카의 다이어트! / Monika's Diet
 [👉 엔트리에서 보기](https://playentry.org/project/6574756c304816b9aaa5168d)
-살빠지는 음식을 먹고, 살찌는 음식은 펴내세요! / Eat slimming ones; YEET fattening ones!
+살빠지는 음식을 먹고, 살찌는 음식은 쳐내세요! / Eat slimming ones; YEET fattening ones!
 <img width="1378" height="768" alt="스크린샷(7)" src="https://github.com/user-attachments/assets/00bc7b57-e401-4e3c-95e8-ec208757e4bc" />
 
 
@@ -28,7 +28,7 @@
 
 ### 🗣️ 소리 지르기 대회! / Screaming Contest!
 [👉 엔트리에서 보기](https://playentry.org/project/649845c94b4846002c1e40d8)
-공기를 모아...소리지르세요!!! / Take a deep breath... and SCREAAAM!
+공기를 모아... 소리지르세요!!! / Take a deep breath... and SCREAAAM!
 <img width="1357" height="781" alt="스크린샷(10)" src="https://github.com/user-attachments/assets/f170e64b-9ce9-4fa0-b794-aa993e606893" />
 
 
